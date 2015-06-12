@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c267c59caf29c4e1888469f64717eab7, type: 3}
+  m_Name: Playground Settings
+  m_EditorClassIdentifier: 
+  checkForUpdates: 1
+  presetsHasPrefabConnection: 0
+  settingsFoldout: 1
+  settingsLanguageFoldout: 1
+  settingsPathFoldout: 0
+  presetsFoldout: 1
+  playgroundManagerFoldout: 1
+  particleSystemFoldout: 1
+  limitsFoldout: 0
+  particlesFoldout: 1
+  statesFoldout: 1
+  sourceFoldout: 1
+  createNewStateFoldout: 1
+  particleSettingsFoldout: 1
+  forcesFoldout: 1
+  forceAnnihilationFoldout: 0
+  manipulatorsFoldout: 0
+  eventsFoldout: 0
+  collisionFoldout: 0
+  collisionPlanesFoldout: 1
+  renderingFoldout: 1
+  advancedFoldout: 0
+  saveLoadFoldout: 0
+  toolboxFoldout: 1
+  paintToolboxSettingsFoldout: 1
+  playgroundFoldout: 1
+  particleSystemsFoldout: 0
+  globalManipulatorsFoldout: 0
+  advancedSettingsFoldout: 0
+  manipulatorTargetsFoldout: 1
+  playgroundPath: 5061727469636c6520506c617967726f756e642f
+  examplePresetPath: 506c617967726f756e64204173736574732f507265736574732f
+  presetPath: 5265736f75726365732f507265736574732f
+  iconPath: 47726170686963732f456469746f722f49636f6e732f
+  brushPath: 506c617967726f756e64204173736574732f427275736865732f
+  languagePath: 506c617967726f756e64204173736574732f53657474696e67732f4c616e6775616765732f
+  scriptPath: 536372697074732f
+  versionUrl: 687474703a2f2f7777772e706f6c79666965642e636f6d2f70726f64756374732f706c617967726f756e6476657273696f6e2e706870
+  maximumAllowedLifetime: 100
+  maximumAllowedParticles: 100000
+  maximumAllowedRotation: 360
+  maximumAllowedSize: 10
+  maximumAllowedDeltaMovementStrength: 100
+  maximumAllowedScale: 10
+  maximumAllowedDamping: 10
+  maximumAllowedVelocity: 100
+  maximumAllowedDepth: 100
+  maximumAllowedMass: 100
+  maximumAllowedCollisionRadius: 10
+  maximumAllowedBounciness: 2
+  minimumAllowedUpdateRate: 10
+  maximumAllowedTransitionTime: 10
+  minimumAllowedTimescale: .00999999978
+  maximumAllowedTimescale: 2
+  maximumAllowedPaintPositions: 100000
+  minimumAllowedBrushScale: .00100000005
+  maximumAllowedBrushScale: 1
+  maximumAllowedPaintSpacing: 10
+  maximumAllowedInitialVelocity: 100
+  minimumEraserRadius: .00100000005
+  maximumEraserRadius: 100
+  maximumRenderSliders: 10
+  maximumAllowedManipulatorSize: 100
+  maximumAllowedManipulatorStrength: 100
+  maximumAllowedManipulatorStrengthEffectors: 2
+  maximumAllowedManipulatorZeroVelocity: 10
+  maximumAllowedSourceScatter: 10
+  maximumAllowedTurbulenceTimeScale: 10
+  maximumAllowedTurbulenceStrength: 100
+  maximumAllowedTurbulenceScale: 10
+  maximumAllowedStretchSpeed: 10
+  selectedLanguage: 0
+  languages:
+  - {fileID: 11400000, guid: 53495fd148e8545699f77b4d8012fbe2, type: 2}
+  - {fileID: 11400000, guid: bf565a473143845bfae62dfefa19af47, type: 2}
+  - {fileID: 11400000, guid: bf77ded16b6054464828c834b0d92d6c, type: 2}
